@@ -5,6 +5,9 @@
 - [x] Responsive UI
 - [x] Fetch Data From API
 - [x] Custom Loading Indicator
+- [x] Hero Widget is used for the Animation while transitioning between screens
+- [x] FadeInImage widget is used for a better loading experience
+- [x] App UI is stable in both landscape and portrait modes properly
 
 **Packages we are using:**
 
