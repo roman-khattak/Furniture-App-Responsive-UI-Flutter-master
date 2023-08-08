@@ -17,7 +17,7 @@ class DetailsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    SizeConfig().init(context);     // we use data from this class to ensure Responsiveness.
+    SizeConfig().init(context);     // we use data from this class to ensure Responsiveness
 
     return Scaffold(
       backgroundColor: kSecondaryColor,
