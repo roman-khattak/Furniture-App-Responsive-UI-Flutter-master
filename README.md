@@ -1,7 +1,5 @@
 # Furniture App - Responsive Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/8uLI8ade1aA)
-
 - [x] Responsive UI
 - [x] Fetch Data From API
 - [x] Custom Loading Indicator
